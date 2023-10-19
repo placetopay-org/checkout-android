@@ -1,0 +1,70 @@
+{
+  "auth": {
+    "login": "c51ce410c124a10e0db5e4b97fc2af39",
+    "nonce": "NjE0OWVkODgwYjNhNw==",
+    "seed": "2023-10-17T17:13-0500",
+    "tranKey": "VQOcRcVH2DfL6Y4B4SaK6yhoH/VOUveZ3xT16OQnvxE="
+  },
+  "cancelUrl": "redirection://receipt?cancel",
+  "captureAddress": false,
+  "expiration": "2023-10-17T23:13-0500",
+  "ipAddress": "10.0.2.15",
+  "locale": "es_CO",
+  "noBuyerFill": false,
+  "payment": {
+    "allowPartial": false,
+    "amount": {
+      "currency": "COP",
+      "details": [
+        {
+          "amount": 15000.0,
+          "kind": "shipping"
+        },
+        {
+          "amount": 150000.0,
+          "kind": "subtotal"
+        }
+      ],
+      "total": 165000.0
+    },
+    "buyer": {
+      "address": {
+        "city": "Cali",
+        "country": "CO",
+        "phone": "+5722222222",
+        "postalCode": "660066",
+        "state": "Valle del Cauca",
+        "street": "Avenida 789"
+      },
+      "document": "5555555555",
+      "documentType": "CC",
+      "email": "comprador3@placetopay.com",
+      "mobile": "+573005555555",
+      "name": "Pedro",
+      "surname": "López"
+    },
+    "description": "Listing of products with values from 35k to 80k for a single unit and 19% tax.",
+    "items": [
+      {
+        "category": "Books",
+        "name": "Libro antiguo",
+        "price": 80000,
+        "qty": 1,
+        "sku": 302,
+        "tax": 15200.0
+      },
+      {
+        "category": "Clothes",
+        "name": "Camisa desconocida",
+        "price": 35000,
+        "qty": 2,
+        "sku": 102,
+        "tax": 6650.0
+      }
+    ],
+    "reference": "3"
+  },
+  "returnUrl": "redirection://receipt?return",
+  "skipResult": false,
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+}

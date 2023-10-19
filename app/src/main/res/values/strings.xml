@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Redirection</string>
+    <string name="placetopay_name" translatable="false">Placetopay</string>
+    <string name="checkout_name" translatable="false">Placetopay Webcheckout</string>
+
+    <string name="btn_back">Back</string>
+    <string name="btn_buy_now">Buy now</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Ok</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_reload">Reload</string>
+
+    <string name="confirm_purchase">Confirm purchase</string>
+    <string name="confirm_purchase_address">Shipping address</string>
+
+    <string name="detail_select_buyer">Select the buyer of the purchase</string>
+
+    <string name="home_select_welcome_purchase">Select the welcome package to purchase</string>
+
+    <string name="product_detail">Purchase detail</string>
+    <string name="product_detail_content_description_shop">Shop</string>
+    <string name="product_item_category">Category: %1$s</string>
+    <string name="product_item_total">Total</string>
+    <string name="product_item_total_items">Items (%1$s)</string>
+    <string name="product_item_qty">Qty: %1$s</string>
+    <string name="product_item_shipping">Shipping</string>
+    <string name="product_order">Purchase order</string>
+    <string name="product_order_loading">Loading purchase order information</string>
+
+    <string name="receipt_purchase">Purchase receipt</string>
+    <string name="receipt_reference">Reference: %1$s</string>
+    <string name="receipt_description">Description: %1$s</string>
+    <string name="receipt_amount">Total: %1$s %2$s </string>
+    <string name="receipt_date">Date: %1$s</string>
+
+    <string name="transaction_pending">Pending transaction</string>
+    <string name="transaction_rejected">Rejected transaction</string>
+    <string name="transaction_successful">Successful transaction</string>
+
+</resources>

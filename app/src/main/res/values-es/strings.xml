@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_back">Volver</string>
+    <string name="btn_buy_now">Comprar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Ok</string>
+    <string name="btn_continue">Continuar</string>
+    <string name="btn_reload">Recargar</string>
+
+    <string name="confirm_purchase">Confirmar compra</string>
+    <string name="confirm_purchase_address">Dirección de envío</string>
+
+    <string name="detail_select_buyer">Seleccione los datos del comprador</string>
+
+    <string name="home_select_welcome_purchase">Seleccione el paquete de Bienvenida a comprar</string>
+
+    <string name="product_detail">Detalle de la orden</string>
+    <string name="product_detail_content_description_shop">Carrito</string>
+    <string name="product_item_category">Categoría: %1$s</string>
+    <string name="product_item_total">Total</string>
+    <string name="product_item_total_items">Artículos (%1$s)</string>
+    <string name="product_item_qty">Unidades: %1$s</string>
+    <string name="product_item_shipping">Envío</string>
+    <string name="product_order">Orden de compra</string>
+    <string name="product_order_loading">Cargando la información de la orden de compra</string>
+
+    <string name="receipt_purchase">Comprobante</string>
+    <string name="receipt_reference">Referencia: %1$s</string>
+    <string name="receipt_description">Descripción: %1$s</string>
+    <string name="receipt_amount">Total: %1$s %2$s </string>
+    <string name="receipt_date">Fecha: %1$s</string>
+
+    <string name="transaction_pending">Transacción Pendiente</string>
+    <string name="transaction_rejected">Transacción Rechazada</string>
+    <string name="transaction_successful">Transacción Exitosa</string>
+</resources>

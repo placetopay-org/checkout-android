@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_extra_large">32dp</dimen>
+    <dimen name="padding_large">18dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_small">6dp</dimen>
+    <dimen name="size_image_medium">50dp</dimen>
+    <dimen name="size_image_small">20dp</dimen>
+    <dimen name="size_grid_medium">250dp</dimen>
+    <dimen name="size_grid_small">150dp</dimen>
+    <dimen name="size_navigation">40dp</dimen>
+</resources>

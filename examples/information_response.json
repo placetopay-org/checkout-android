@@ -1,0 +1,142 @@
+{
+  "requestId": 2630139,
+  "status": {
+    "status": "APPROVED",
+    "reason": "00",
+    "message": "La petición ha sido aprobada exitosamente",
+    "date": "2023-10-18T15:02:42-05:00"
+  },
+  "request": {
+    "locale": "es_CO",
+    "payer": {
+      "document": "1040035001",
+      "documentType": "CC",
+      "name": "Karli",
+      "surname": "Kutch",
+      "email": "dnetix@yopmail.com",
+      "mobile": "+573006108300",
+      "address": {
+        "postalCode": "123456"
+      }
+    },
+    "payment": {
+      "reference": "2",
+      "description": "A single product with a value of 600k for a single unit and zero tax",
+      "amount": {
+        "details": [
+          {
+            "kind": "shipping",
+            "amount": 15000
+          },
+          {
+            "kind": "subtotal",
+            "amount": 50000
+          }
+        ],
+        "currency": "COP",
+        "total": 65000
+      },
+      "allowPartial": false,
+      "items": [
+        {
+          "sku": 101,
+          "name": "Smart Watch",
+          "category": "Electronic",
+          "qty": 1,
+          "price": 50000,
+          "tax": 9500
+        }
+      ],
+      "subscribe": false
+    },
+    "fields": [
+      {
+        "keyword": "_processUrl_",
+        "value": "https://checkout-test.placetopay.com/spa/session/2630139/7149a8cf3aed4506669c944ac885978e",
+        "displayOn": "none"
+      },
+      {
+        "keyword": "_session_",
+        "value": 2630139,
+        "displayOn": "none"
+      }
+    ],
+    "returnUrl": "redirection://receipt?return",
+    "ipAddress": "10.0.2.15",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36",
+    "expiration": "2023-10-18T21:02-0500"
+  },
+  "payment": [
+    {
+      "amount": {
+        "to": {
+          "total": 65000,
+          "currency": "COP"
+        },
+        "from": {
+          "total": 65000,
+          "currency": "COP"
+        },
+        "factor": 1
+      },
+      "status": {
+        "date": "2023-10-18T15:02:39-05:00",
+        "reason": "00",
+        "status": "APPROVED",
+        "message": "Aprobada"
+      },
+      "receipt": "99959359",
+      "refunded": false,
+      "franchise": "CR_VS",
+      "reference": "2",
+      "issuerName": "JPMORGAN CHASE BANK, N.A.",
+      "authorization": "000000",
+      "paymentMethod": "visa",
+      "processorFields": [
+        {
+          "value": "012988341",
+          "keyword": "merchantCode",
+          "displayOn": "none"
+        },
+        {
+          "value": "00022645",
+          "keyword": "terminalNumber",
+          "displayOn": "none"
+        },
+        {
+          "value": "411111",
+          "keyword": "bin",
+          "displayOn": "none"
+        },
+        {
+          "value": "1226",
+          "keyword": "expiration",
+          "displayOn": "none"
+        },
+        {
+          "value": 1,
+          "keyword": "installments",
+          "displayOn": "none"
+        },
+        {
+          "value": "****1111",
+          "keyword": "lastDigits",
+          "displayOn": "none"
+        },
+        {
+          "value": "d3cdf53f1c91cc535c9e459ea09edca5",
+          "keyword": "id",
+          "displayOn": "none"
+        },
+        {
+          "value": "000",
+          "keyword": "b24",
+          "displayOn": "none"
+        }
+      ],
+      "internalReference": 1597013407,
+      "paymentMethodName": "Visa"
+    }
+  ],
+  "subscription": null
+}

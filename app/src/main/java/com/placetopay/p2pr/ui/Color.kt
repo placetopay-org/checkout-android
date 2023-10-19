@@ -1,0 +1,63 @@
+package com.placetopay.p2pr.ui
+
+import androidx.compose.ui.graphics.Color
+
+val White = Color(0xFFFFFFFF)
+val Black = Color(0xFF000000)
+
+val Orange600 = Color(0xFFFF6C0C)
+val Orange500 = Color(0xFFFF7E29)
+val Orange400 = Color(0xFFFF9440)
+val Orange300 = Color(0xFFFFB362)
+val Orange200 = Color(0xFFFFCC8D)
+val Orange100 = Color(0xFFFFE3BC)
+val Orange50 = Color(0xFFFFF6EA)
+
+val Gray900 = Color(0xFF1B1A21)
+val Gray800 = Color(0xFF373743)
+val Gray700 = Color(0xFF535365)
+val Gray600 = Color(0xFF787891)
+val Gray500 = Color(0xFF9A9AAC)
+val Gray400 = Color(0xFFB0B0BF)
+val Gray300 = Color(0xFFD2D2DA)
+val Gray200 = Color(0xFFDDDDE3)
+val Gray100 = Color(0xFFE9E9ED)
+val Gray50 = Color(0xFFF4F4F6)
+
+val Green800 = Color(0xFF2AA248)
+val Green700 = Color(0xFF2EB24F)
+val Green600 = Color(0xFF32C356)
+val Green500 = Color(0xFF34C759)
+val Green400 = Color(0xFF5DD57B)
+val Green300 = Color(0xFF7DDE95)
+val Green200 = Color(0xFFBDEFCA)
+val Green100 = Color(0xFFDEF7E5)
+val Green50 = Color(0xFFEFFBF2)
+
+val Red800 = Color(0xFFCC0000)
+val Red700 = Color(0xFFE00000)
+val Red600 = Color(0xFFFF0A0A)
+val Red500 = Color(0xFFFF3333)
+val Red400 = Color(0xFFFF5C5C)
+val Red300 = Color(0xFFFF8585)
+val Red200 = Color(0xFFFFADAD)
+val Red100 = Color(0xFFFFD6D6)
+val Red50 = Color(0xFFFFEBEB)
+
+val Yellow700 = Color(0xFFDA5A0D)
+val Yellow600 = Color(0xFFFF6C0C)
+val Yellow500 = Color(0xFFFF7E29)
+val Yellow400 = Color(0xFFFACC15)
+val Yellow300 = Color(0xFFFDE047)
+val Yellow200 = Color(0xFFFEF08A)
+val Yellow100 = Color(0xFFFEF9C3)
+val Yellow50 = Color(0xFFFEFCE8)
+
+val Blue600 = Color(0xFF2563EB)
+val Blue500 = Color(0xFF3B82F6)
+val Blue400 = Color(0xFF60A5FA)
+val Blue300 = Color(0xFF93C5FD)
+val Blue200 = Color(0xFFBFDBFE)
+val Blue100 = Color(0xFFDBEAFE)
+val Blue50 = Color(0xFFEFF6FF)
+
